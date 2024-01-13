@@ -12,4 +12,6 @@ Launch `make` then use the executable `./rustine` with a .rs (there are many fil
 ## Futures improvements
 
 - Currently some tests do not pass lexical analysis correctly, will correct it in the future
+- Correct the conflicts due to the syntactical analysis
+- Make a deep semantic analyzer
 - Extend the analyser to understand complete Rust langage
