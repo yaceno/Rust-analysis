@@ -1,5 +1,5 @@
 # Rust-analysis
-Lexical and syntactical analysis on a simplified version of Rust langage.
+Lexical and syntactical analysis on a simplified version of Rust langage as part of a course on compilation.
 
 ## Prerequisites
 
